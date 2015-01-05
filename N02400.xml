@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002846_0000_0FE6758C25505670"/>
-            <pb facs="tcp:002846_0001_0FE6758E90F06D00"/>
+            <pb facs="unknown:002846_0000_0FE6758C25505670"/>
+            <pb facs="unknown:002846_0001_0FE6758E90F06D00"/>
             <p>A <hi>POEM</hi> On the <hi>DEATH</hi> Of His late MAJESTY King <hi>GEORGE,</hi> Of glorious Memory: AND THE ACCESSION Of our preſent SOVEREIGN <hi>King</hi> GEORGE <hi>II.</hi> To the <hi>Britiſh</hi> THRONE.</p>
             <p>By Mr. <hi>BYLES.</hi>
             </p>
@@ -140,7 +140,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:002846_0002_0FE6758EB9BA32C0"/>
+            <pb facs="unknown:002846_0002_0FE6758EB9BA32C0"/>
             <head>A POEM On the <hi>Death</hi> of King GEORGE I. AND ACCESSION of King GEORGE, II.</head>
             <lg>
                <l>SAY, mournful Muſe, declare thy riſing woe;</l>
@@ -164,7 +164,7 @@
                <l>The raptur'd muſe thy awful form reveal,</l>
                <l>Deſcribe thy counſels, and thy actions tell;</l>
                <l>
-                  <pb n="ii" facs="tcp:002846_0003_0FE6758FE7C47738"/>
+                  <pb n="ii" facs="unknown:002846_0003_0FE6758FE7C47738"/>
 Bid dying ſounds thy raviſh'd life bemoan,</l>
                <l>Or ſhouting nations hail thee to thy throne;</l>
                <l>Each varying ſcene, with various numbers crown'd,</l>
@@ -196,7 +196,7 @@ Bid dying ſounds thy raviſh'd life bemoan,</l>
                <l>'Twas then, by heaven ordain'd, his happy hand,</l>
                <l>From ruin reſcu'd the devoted land;</l>
                <l>
-                  <pb n="iii" facs="tcp:002846_0004_0FE6759012B8ADC8"/>
+                  <pb n="iii" facs="unknown:002846_0004_0FE6759012B8ADC8"/>
 The ſtorm was huſht, the clam'rous factions laid,</l>
                <l>And peaceful olive ſpread its wealthy ſhade.</l>
                <l>So when dark clouds hang heavy o'er the main</l>
@@ -229,7 +229,7 @@ The ſtorm was huſht, the clam'rous factions laid,</l>
                <l>While GEORGE divinely o're thy kingdom reigns.</l>
             </lg>
             <lg>
-               <pb n="iv" facs="tcp:002846_0005_0FE6759444C91518"/>
+               <pb n="iv" facs="unknown:002846_0005_0FE6759444C91518"/>
                <l>BUT oh! at once the heavenly ſcenes decay,</l>
                <l>And all the gaudy viſions fade away.</l>
                <l>He dies! — my Muſe, the diſmal ſound forbear:</l>
@@ -261,7 +261,7 @@ The ſtorm was huſht, the clam'rous factions laid,</l>
                <l>Fair Princeſs, Thou! in whoſe majeſtick eyes</l>
                <l>Dawn heavenly beauties, and immortal joys;</l>
                <l>
-                  <pb n="v" facs="tcp:002846_0006_0FE7517F0FCE4B90"/>
+                  <pb n="v" facs="unknown:002846_0006_0FE7517F0FCE4B90"/>
 By thee, ſhall <hi>Albion</hi> future triumphs own,</l>
                <l>And a long race of Hero's grace her throne:</l>
                <l>Here, FREDERICK in the bloom of years ſhall ſtand;</l>
